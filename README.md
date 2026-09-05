@@ -2,6 +2,10 @@
 
 A Streamlit application that predicts the next word in a text sequence using a trained LSTM model. The model was trained on Shakespeare's *Hamlet* text and uses early stopping during training.
 
+## 🚀 Live Demo
+
+👉 https://next-word-prediction-cbncc2p8brpjmdhzlmfy58.streamlit.app/
+
 ## Features
 
 - Accepts a sequence of words as input.
@@ -19,7 +23,7 @@ A Streamlit application that predicts the next word in a text sequence using a t
 
 ## Requirements
 
-Use Python 3. The shared project dependency file is located one directory above this folder:
+Use Python 3.11 The shared project dependency file is located one directory above this folder:
 
 ```bash
 pip install -r ../requirements.txt
